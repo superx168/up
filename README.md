@@ -1,3 +1,5 @@
+https://hfr1107.github.io/up/bookmark.html
+
 https://github.com/hfr1107/up/edit/main/remote.txt     
 
 https://hfr1107.github.io/up/remote.txt
