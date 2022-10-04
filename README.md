@@ -14,3 +14,5 @@ https://github.com/hfr1107/HomeBox_relerase
 https://github.com/hfr1107/HomeBox_relerase/releases
 
 https://download.fastgit.org/hfr1107/HomeBox_relerase/releases/download/20221001-0559/TVBox_hfr1107_20221001-0559.apk
+
+https://hfr1107.github.io/up/config.json
