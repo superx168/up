@@ -1,4 +1,4 @@
-https://hfr1107.github.io/up/skykey.apk
+https://hfr1107.github.io/up/store/skykey.apk
 
 https://hfr1107.github.io/up/bookmark.html
 
