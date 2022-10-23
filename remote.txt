@@ -36,7 +36,7 @@
         "ForceUpdate":false, //是否强制更新
         "UpdateDesc":       //更新描述
            "写了也不会看\n所以不写了", // \n\n\n所有更新记录:https://mayishidai.cn/tv/apk/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97.txt
-           "UpdateDownloadUrl":"https://download.fastgit.org/hfr1107/HomeBox_relerase/releases/download/20221024-0110/TVBox_hfr1107_20221024-0110.apk" //更新下载地址
+           "UpdateDownloadUrl":"https://ghproxy.com/https://github.com/hfr1107/HomeBox_relerase/releases/download/20221024-0110/TVBox_hfr1107_20221024-0110.apk" //更新下载地址
     },
     //自定义数据
     "CustomData":{
@@ -64,7 +64,7 @@
                "APIUrl":"https://agit.ai/hfr1107/vvbox/raw/branch/main/tv.json", //首页默认API地址
                 "UpdateDesc":       //更新描述
            "老年版测试", // \n\n\n所有更新记录:https://mayishidai.cn/tv/apk/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97.txt
-           "UpdateDownloadUrl":"https://download.fastgit.org/hfr1107/HomeBox_relerase/releases/download/20221024-0110/TVBox_hfr1107_20221024-0110.apk" //更新下载地址
+           "UpdateDownloadUrl":"https://ghproxy.com/https://github.com/hfr1107/HomeBox_relerase/releases/download/20221024-0110/TVBox_hfr1107_20221024-0110.apk" //更新下载地址
             }
         }
     }
