@@ -4,10 +4,10 @@
     
     // 默认配置相关
     "ForceChangeAPIUrl": false, //强制替换首页默认API地址，防止API失效不更新包的手段
-    "APIUrl":"https://agit.ai/hfr1107/vvbox/raw/branch/main/tv.json", //首页默认API地址
-    "HomeID": "csp_CZSPP", //六度TV "csp_xpath_lezhutv", // 乐猪TV //默认首页数据源 key
-    "HomeShowType": 1, //默认首页推荐 0 豆瓣热播 1 数据源推荐 2 历史
-    "HomeSearchType": 0, //默认搜索展示 0 列表 1 缩略图
+    "APIUrl":"https://mayishidai.cn/tv/api/custom.json", //首页默认API地址
+    "HomeID": "csp_xpath_mrnjz", //六度TV "csp_xpath_lezhutv", // 乐猪TV //默认首页数据源 key
+    "HomeShowType": 0, //默认首页推荐 0 豆瓣热播 1 数据源推荐 2 历史
+    "HomeSearchType": 1, //默认搜索展示 0 列表 1 缩略图
     "HomeFastSearch": false, //默认聚合模式
     "HomeDNSType": 0, //默认安全DNS 0 关闭 1 腾讯 2 阿里 3 360
     "HomeHistoryNum": 1, //默认历史记录 0 30条 1 50条 2 70条
@@ -21,22 +21,22 @@
     
     // 直播配置相关
     "Live":{
-        "Channel": "CCTV-13", // 频道名字
+        "Channel": "CCTV-1", // 频道名字
         "ChannelReverse": false, // 换台反转
         "CrossGroup": false, // 跨选分类
-        "ConnectTimeout": 1, // 超时换源时间 0 5s 1 10s 2 15s 3 20s 4 25s 5 30s
-        "ShowNetSpeed": true, // 显示网速
-        "ShowTime": true // 显示时间
+        "ConnectTimeout": 0, // 超时换源时间 0 5s 1 10s 2 15s 3 20s 4 25s 5 30s
+        "ShowNetSpeed": false, // 显示网速
+        "ShowTime": false // 显示时间
     },
     
     // 更新相关
     "IsForceUpdate":false, //是否强制显示更新UI
     "UpdateData":{  //更新数据
-        "NewVersion":"1.0.1", //最新版本号
+        "NewVersion":"1.0.12", //最新版本号
         "ForceUpdate":false, //是否强制更新
         "UpdateDesc":       //更新描述
            "写了也不会看\n所以不写了", // \n\n\n所有更新记录:https://mayishidai.cn/tv/apk/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97.txt
-        "UpdateDownloadUrl":"https://download.fastgit.org/hfr1107/HomeBox_relerase/releases/download/20221001-0559/TVBox_hfr1107_20221001-0559.apk" //更新下载地址
+        "UpdateDownloadUrl":"https://mayishidai.cn/tv/apk/tvbox_2022_10_22.apk" //更新下载地址
     },
     //自定义数据
     "CustomData":{
@@ -45,16 +45,10 @@
                 "HistoryButton":true, // 历史按钮
                 "LiveButton":true, // 直播按钮
                 "SearchButton":true, // 搜索按钮
-                "PushButton":false, // 推送按钮
+                "PushButton":true, // 推送按钮
                 "CollectionButton":true, // 收藏按钮
                 "SettingButton":true, // 设置按钮
-                "CloudGameButton":false, // 云游戏按钮
-               "ForceChangeAPIUrl": true, //强制替换首页默认API地址，防止API失效不更新包的手段
-               "APIUrl":"https://agit.ai/hfr1107/vvbox/raw/branch/main/tv.json", //首页默认API地址
-               "HomeID": "csp_CZSPP", //六度TV "csp_xpath_lezhutv", // 乐猪TV //默认首页数据源 key
-                "UpdateDesc":       //更新描述
-                  "青年测试", // 
-                "UpdateDownloadUrl":"https://download.fastgit.org/hfr1107/HomeBox_relerase/releases/download/20221001-0559/TVBox_hfr1107_20221001-0559.apk" //更新下载地址
+                "CloudGameButton":true // 云游戏按钮
             }
         },
         "CustomData_AGED":{ // 自定义数据 老年版
@@ -65,13 +59,7 @@
                 "PushButton":false, // 推送按钮
                 "CollectionButton":true, // 收藏按钮
                 "SettingButton":true, // 设置按钮
-                "CloudGameButton":false , // 云游戏按钮
-                 "UpdateDesc":       //更新描述
-                 "ForceChangeAPIUrl": true, //强制替换首页默认API地址，防止API失效不更新包的手段
-                   "HomeID": "csp_CZSPP", //六度TV "csp_xpath_lezhutv", // 乐猪TV //默认首页数据源 key
-                  "APIUrl":"https://raw.iqiq.io/hfr1107/vvbox/main/tv.json", //首页默认API地址
-                        "老年测试", 
-                 "UpdateDownloadUrl":"https://download.fastgit.org/hfr1107/HomeBox_relerase/releases/download/20221001-0559/TVBox_hfr1107_20221001-0559.apk" //更新下载地址
+                "CloudGameButton":false // 云游戏按钮
             }
         }
     }
