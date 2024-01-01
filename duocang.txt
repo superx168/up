@@ -1,0 +1,6 @@
+{"storeHouse": [
+{"sourceName":"饭太硬","sourceUrl":"http://饭太硬.top/tv"},  
+{"sourceName":"小米线路","sourceUrl":"http://xhww.fun:63/小米/DEMO.json"},  
+{"sourceName":"蜂蜜","sourceUrl":"https://fm.t4tv.hz.cz/json/config.json"}
+ ]
+}
