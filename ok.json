@@ -1,7 +1,7 @@
 //原链接https://mirror.ghproxy.com/https://raw.githubusercontent.com/okcaptain/okjar/rm/ok.json
 //明文配置
 {
-"spider":"https://hfr1107.github.io/up/jar/ok.png;md5;E5F0A5283309C662BDAF3659A55E9F1D",
+"spider":"https://hfr1107.github.io/up/jar/ok.png",
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 "sites":[    
 {"key":"豆瓣","name":"豆瓣","type":3,"api":"csp_Douban","searchable":0,"changeable":1},    
@@ -19,7 +19,7 @@
 {"key":"haiwaikan","name":"海外看","type":1,"api":"https://haiwaikan.com/api.php/provide/vod","searchable":1,"changeable":1,"timeout":25,"categories":["日本动漫","国产动漫","欧美动漫","国产剧","韩剧","日剧","台剧","泰剧","港剧","欧美剧","动画电影","韩国综艺","国产综艺","日本综艺","欧美综艺","冒险片","剧情片","动作片","同性片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","战争片","歌舞片","灾难片","爱情片","犯罪片","科幻片","纪录片","经典片"]},    
 {"key":"星星","name":"星星","type":3,"api":"csp_Star","searchable":1,"changeable":1,"timeout":25},    
 {"key":"泥巴弹幕版","name":"泥巴|弹幕","type":3,"api":"csp_NiNi","searchable":1,"changeable":1,"ext":{"danmu":true},"timeout":25},    
-{"key":"短剧","name":"短剧","type":3,"api":"csp_Duanju","searchable":1,"changeable":0,"style":{"type":"rect","ratio":1.433},"timeout":25},    
+{"key":"短剧","name":"短剧","type":3,"api":"csp_Duanju","searchable":1，"changeable":0,"style":{"type":"rect","ratio":1.433},"timeout":25},    
 {"key":"看球","name":"看球","type":3,"api":"csp_Kanqiu","searchable":1,"changeable":0,"style":{"type":"list"},"timeout":25},    
 {"key":"虎牙直播js","name":"虎牙┃直播","type":3,"api":"https://fanty.run.goorm.site/ext/js/drpy2.min.js","ext":"https://fanty.run.goorm.site/ext/虎牙直播.js","style":{"type":"rect","ratio":1.755},"searchable":0,"quickSearch":0,"changeable":0,"timeout":25},    
 {"key":"csp_XYQBiu_斗鱼","name":"斗鱼┃直播","type":3,"api":"https://fanty.run.goorm.site/ext/js/drpy2.min.js","ext":"https://fanty.run.goorm.site/ext/斗鱼直播.js","style":{"type":"rect","ratio":1.755},"searchable":0,"quickSearch":0,"changeable":0,"timeout":25},    
