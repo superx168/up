@@ -9,7 +9,7 @@
       "api": "csp_Market",
       "searchable": 0,
       "changeable": 0,
-      "ext": "https://hfr1107.github.io/up/market.json"
+      "ext": "https://hfr1107.github.io/up/json/market.json"
     },
     {"key": "csp_KungFu404","name": "🔥设置Token","type": 3,"api": "csp_KungFu404","searchable": 0,"filterable": 0,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt","jar": "https://hfr1107.github.io/up/jar/alibaba.jar"}
   ],
