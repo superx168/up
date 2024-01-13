@@ -8,12 +8,12 @@ https://github.com/hfr1107/up/edit/main/tv/tv2.txt
 
 https://github.com/hfr1107/up/edit/main/tv/tv3.txt
 
-https://github.com/hfr1107/up/edit/main/market/ads.php
+https://github.com/hfr1107/up/edit/main/appmarket/ads.php
 
-https://github.com/hfr1107/up/edit/main/index.php
+https://github.com/hfr1107/up/edit/main/appmarket/index.php
 
 
-https://hfr1107.github.io/up/market/market.app
+https://hfr1107.github.io/up/appmarket/market.app
 
 https://hfr1107.github.io/up/dc.json
 
