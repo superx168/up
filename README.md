@@ -13,7 +13,7 @@ https://github.com/hfr1107/up/edit/main/appmarket/ads.php
 https://github.com/hfr1107/up/edit/main/appmarket/index.php
 
 
-https://hfr1107.github.io/up/appmarket/market.app
+https://hfr1107.github.io/up/appmarket/market.apk
 
 https://hfr1107.github.io/up/dc.json
 
