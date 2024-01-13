@@ -12,9 +12,6 @@ https://github.com/hfr1107/up/edit/main/appmarket/ads.php
 
 https://github.com/hfr1107/up/edit/main/appmarket/index.php
 
-
-https://hfr1107.github.io/up/appmarket/market.apk
-
 https://hfr1107.github.io/up/dc.json
 
 https://hfr1107.github.io/up/tv/tv1.txt
@@ -22,4 +19,10 @@ https://hfr1107.github.io/up/tv/tv1.txt
 https://hfr1107.github.io/up/appmarket/ads.php
 
 https://hfr1107.github.io/up/appmarket/index.php
+
+https://hfr1107.github.io/up/appmarket/market.apk
+
+http://shh.xn--sqr74w.xn--fiqs8s/api/ads.php
+
+http://shh.xn--sqr74w.xn--fiqs8s/api/index.php
 
