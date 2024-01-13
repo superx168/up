@@ -19,6 +19,7 @@ https://hfr1107.github.io/up/dc.json
 
 https://hfr1107.github.io/up/tv/tv1.txt
 
-https://hfr1107.github.io/up/market/ads.php
-https://hfr1107.github.io/up/market/index.php
+https://hfr1107.github.io/up/appmarket/ads.php
+
+https://hfr1107.github.io/up/appmarket/index.php
 
