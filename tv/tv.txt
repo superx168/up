@@ -2,11 +2,15 @@
   "urls": [
     {
       "name": "自编1",
-      "url": "http://饭太硬.top/tv"
+      "url": "https://hfr1107.github.io/up/tv/tv1.txt"
     },
     {
       "name": "自编2",
-      "url": "http://39.101.135.137:8080"
+      "url": "https://hfr1107.github.io/up/tv/tv2.txt"
+    },
+    {
+      "name": "自编3",
+      "url": "https://hfr1107.github.io/up/tv/tv3.txt"
     }
   ]
 }
