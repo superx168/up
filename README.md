@@ -12,6 +12,11 @@ https://agit.ai/hfr1107/up/raw/branch/main/remote.txt
 
 https://hfr1107.github.io/up/dc.json
 
+https://hfr1107.github.io/up/tv/tv1.txt
+
+https://hfr1107.github.io/up/market/ads.php
+https://hfr1107.github.io/up/market/index.php
+
 https://github.com/hfr1107/HomeBox_relerase
 
 https://github.com/hfr1107/HomeBox_relerase/releases
