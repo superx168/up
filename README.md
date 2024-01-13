@@ -1,14 +1,13 @@
-https://hfr1107.github.io/up/store/skykey.apk
+https://github.com/hfr1107/up/edit/main/dc.json
+https://github.com/hfr1107/up/edit/main/tv/tv.txt
+https://github.com/hfr1107/up/edit/main/tv/tv1.txt
+https://github.com/hfr1107/up/edit/main/tv/tv2.txt
+https://github.com/hfr1107/up/edit/main/tv/tv3.txt
+https://github.com/hfr1107/up/edit/main/market/ads.php
+https://github.com/hfr1107/up/edit/main/index.php
 
-https://hfr1107.github.io/up/bookmark.html
 
-https://github.com/hfr1107/up/edit/main/remote.txt     
-
-https://hfr1107.github.io/up/remote.txt
-
-https://agit.ai/hfr1107/up/settings
-
-https://agit.ai/hfr1107/up/raw/branch/main/remote.txt   
+https://hfr1107.github.io/up/market/market.app
 
 https://hfr1107.github.io/up/dc.json
 
@@ -17,10 +16,3 @@ https://hfr1107.github.io/up/tv/tv1.txt
 https://hfr1107.github.io/up/market/ads.php
 https://hfr1107.github.io/up/market/index.php
 
-https://github.com/hfr1107/HomeBox_relerase
-
-https://github.com/hfr1107/HomeBox_relerase/releases
-
-https://download.fastgit.org/hfr1107/HomeBox_relerase/releases/download/20221001-0559/TVBox_hfr1107_20221001-0559.apk
-
-https://hfr1107.github.io/up/config.json
