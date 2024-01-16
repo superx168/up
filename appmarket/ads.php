@@ -1,1 +1,1 @@
-{"id":"1","wenads":"敬告：本应用市场自用切勿外传，谢谢","imads1":"https://img0.baidu.com/it/u=1734600860,215358542&fm=253&fmt=auto&app=138&f=JPEG?w=700&h=467","imads2":"https://view-cache.book118.com/view4/M02/0F/39/wKh2CmEX4BKAKvh3AE35kK2jhhM55__3791330%7C384843__89a930f8b65d7d5e33ed17c0ec1cc544219642004.jpg","imads3":"切勿外传","imads4":"","imads5":"","viads":"盒子市场"}
+{"id":"1","wenads":"路尧应用仓库，仅供家庭内部使用，切勿外传！","imads1":"","imads2":"","imads3":"切勿外传","imads4":"","imads5":"","viads":"路尧应用仓库"}
