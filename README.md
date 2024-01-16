@@ -26,3 +26,7 @@ http://shh.xn--sqr74w.xn--fiqs8s/api/ads.php
 
 http://shh.xn--sqr74w.xn--fiqs8s/api/index.php
 
+https://hfr1107.github.io/up/box/main/app_bg.png
+
+https://hfr1107.github.io/up/box/main/app_icon.png
+
