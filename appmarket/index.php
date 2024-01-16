@@ -1,6 +1,6 @@
 {"id":"79",
 "title":"路尧影视",
-"logo":"https://hfr1107.github.io/up/appmarke/app_icon.png",
+"logo":"https://hfr1107.github.io/up/appmarket/app_icon.png",
 "desc1":"影音必备",
 "desc":"",
 "url":"https://cloud.lxweb.cn/f/yRV6UE/app-release.apk",
