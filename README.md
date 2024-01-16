@@ -30,3 +30,4 @@ https://hfr1107.github.io/up/box/main/app_bg.png
 
 https://hfr1107.github.io/up/box/main/app_icon.png
 
+影视仓多仓接口：https://atomgit.com/66dashun/xiazheng/raw/master/d.json
