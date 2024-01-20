@@ -12,6 +12,10 @@ https://github.com/hfr1107/up/edit/main/appmarket/ads.php
 
 https://github.com/hfr1107/up/edit/main/appmarket/index.php
 
+http://120.53.102.254/mysc/api/index.php
+
+http://120.53.102.254/mysc/api/ads.php
+
 https://hfr1107.github.io/up/dc.json
 
 https://hfr1107.github.io/up/tv/tv.txt
