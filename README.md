@@ -43,3 +43,5 @@ http://39.101.135.137:8081/xx2.txt
 
 电视宝贝（可时移）：http://qrh.yimkj.cn/ym/lib/zb1122.txt
 
+毒苹果：https://ipa.haoruan.cc/duy/0606.json
+
