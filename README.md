@@ -39,6 +39,10 @@ IP6:http://101.200.122.188/66
 
 太阳直播https://tvkj.top/IPV6.txt
 
+黑科技：http://fanqie.gq/a/1705125814.txt
+
+https://pan.shangui.cc/f/VQjZh8/666.txt
+
 http://39.101.135.137:8081/xx2.txt
 
 电视宝贝（可时移）：http://qrh.yimkj.cn/ym/lib/zb1122.txt
