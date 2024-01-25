@@ -56,3 +56,5 @@ http://39.101.135.137:8081/xx2.txt
 毒苹果：https://ipa.haoruan.cc/duy/0606.json
 
 老人tv：http://39.101.135.137:8081/le.txt
+
+ipv6：http://yinglunjiudian.com/ipv6.txt
