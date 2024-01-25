@@ -1,4 +1,4 @@
-华视IPV4,#genre#
+﻿华视IPV4,#genre#
 
 CCTV1,http://182.107.188.104:8888/newlive/live/hls/2/live.m3u8
 
