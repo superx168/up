@@ -33,6 +33,8 @@ http://120.53.102.254/mysc/api/ads.php
 
 [软件图标：https://hfr1107.github.io/up/box/main/app_icon.png ]&&&&&&&[打   开](https://hfr1107.github.io/up/box/main/app_icon.png) &&&&&&&[编   辑](https://github.com/hfr1107/up/edit/main/box/main)]
 
+
+https://atomgit.com/kuby007/up/raw/main/tv/
 ===============================================================
 
 影视仓多仓接口：https://atomgit.com/66dashun/xiazheng/raw/master/d.json
