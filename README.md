@@ -5,9 +5,9 @@
 
 [市场下载：https://hfr1107.github.io/up/appmarket/market.apk ]&&&&&&&[下  载](https://hfr1107.github.io/up/appmarket/market.apk) &&&&&&&[编   辑](https://github.com/hfr1107/up/edit/main/appmarket/)]
 
-https://atomgit.com/kuby007/tv/raw/master/ads.json
+https://atomgit.com/kuby007/up/raw/main/appmarket/ads.json
 
-https://atomgit.com/kuby007/tv/raw/master/index.json
+https://atomgit.com/kuby007/up/raw/main/appmarket/index.json
 
 http://shh.xn--sqr74w.xn--fiqs8s/api/ads.php  
 
