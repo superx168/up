@@ -53,8 +53,13 @@ http://39.101.135.137:8081/xx2.txt
 
 电视宝贝（可时移）：http://qrh.yimkj.cn/ym/lib/zb1122.txt
 
+
 毒苹果：https://ipa.haoruan.cc/duy/0606.json
 
 老人tv：http://39.101.135.137:8081/le.txt
 
 ipv6：http://yinglunjiudian.com/ipv6.txt
+
+https://tvkj.top/tvlive.txt
+
+https://api.wmmys.cn/王某某影视/zb.txt
