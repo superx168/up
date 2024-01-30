@@ -80,4 +80,4 @@ https://pastebin.com/raw/tuXBQs7U
 
 熊猫直播：https://gitee.com/langli-little-white-dragon-1/little-white-dragon/raw/master/zb.txt
 
-https://xhdwc.tk/tvlive.txt
+Nite07：https://xhdwc.tk/tvlive.txt
