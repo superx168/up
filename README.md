@@ -41,6 +41,8 @@ https://atomgit.com/kuby007/up/raw/main/tv/
 
 拽姐：https://gitee.com/tanghengice/lugemovie/raw/master/tvbox/zhuaijie.json
 
+壹梦：http://lige.unaux.com/?url=http://qrh.yimkj.cn/ym/%E5%A3%B9%E6%A2%A6.json&i=1
+
 ---------------------------------------------------------------------------------------------
 
 IP6:http://101.200.122.188/66
@@ -72,4 +74,4 @@ https://api.wmmys.cn/王某某影视/zb.txt
 
 闭月羞花：http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 
-
+壹梦：http://lige.unaux.com/?url=http://qrh.yimkj.cn/%E7%9B%B4%E6%92%AD%E6%BA%90.php
