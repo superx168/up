@@ -63,3 +63,5 @@ ipv6：http://yinglunjiudian.com/ipv6.txt
 https://tvkj.top/tvlive.txt
 
 https://api.wmmys.cn/王某某影视/zb.txt
+
+闭月羞花：http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
