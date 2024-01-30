@@ -72,8 +72,12 @@ https://tvkj.top/tvlive.txt
 
 https://api.wmmys.cn/王某某影视/zb.txt
 
+https://pastebin.com/raw/tuXBQs7U
+
 闭月羞花：http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 
 壹梦：http://lige.unaux.com/?url=http://qrh.yimkj.cn/%E7%9B%B4%E6%92%AD%E6%BA%90.php
 
 熊猫直播：https://gitee.com/langli-little-white-dragon-1/little-white-dragon/raw/master/zb.txt
+
+https://xhdwc.tk/tvlive.txt
