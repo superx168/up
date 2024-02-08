@@ -1,5 +1,4 @@
 央视IPV6,#genre#
-
 CCTV1,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225816/index.m3u8
 CCTV1,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV1,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -409,7 +408,7 @@ LYTV,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001417/ind
 兵团卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 
 
-江苏地区IPV6线路,#genre#
+江苏IPV6线路,#genre#
 江苏-泰州1,http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw2988629058_378021149/ott.mobaibox.com/PLTV/3/224/3221228209/index.m3u8
 江苏-泰州2,http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3054465711_-1323742279/ott.mobaibox.com/PLTV/3/224/3221228212/index.m3u8
 江苏-泰州3,http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw3111075443_-1954595974/ott.mobaibox.com/PLTV/3/224/3221228100/index.m3u8
