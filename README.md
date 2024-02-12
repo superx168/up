@@ -3,7 +3,7 @@
 
 [市场app：https://hfr1107.github.io/up/appmarket/index.php ]&&&&&&&[打  开](https://hfr1107.github.io/up/appmarket/index.php) &&&&&&&[编   辑](https://github.com/hfr1107/up/edit/main/appmarket/index.php)]
 
-[市场下载：https://hfr1107.github.io/up/appmarket/market.apk ]&&&&&&&[下  载](https://hfr1107.github.io/up/appmarket/由于市场.apk) &&&&&&&[编   辑](https://github.com/hfr1107/up/edit/main/appmarket/)]
+[市场下载：https://hfr1107.github.io/up/appmarket/应用市场.apk ]&&&&&&&[下  载](https://hfr1107.github.io/up/appmarket/应用市场.apk) &&&&&&&[编   辑](https://github.com/hfr1107/up/edit/main/appmarket/)]
 
 https://atomgit.com/kuby007/up/raw/main/appmarket/ads.json
 
