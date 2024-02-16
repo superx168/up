@@ -897,7 +897,7 @@
     {
       "name": "SAO0",
       "type": 0,
-      "url": "https://hfr1107.github.io/up/tv/tv.txt",
+      "url": "/tv.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
