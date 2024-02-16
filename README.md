@@ -81,3 +81,5 @@ https://pastebin.com/raw/tuXBQs7U
 熊猫直播：https://gitee.com/langli-little-white-dragon-1/little-white-dragon/raw/master/zb.txt
 
 Nite07：https://xhdwc.tk/tvlive.txt
+
+病姐TV:https://d.kstore.space/download/7344/%E5%A4%8F%E5%86%B0/Box.txt
