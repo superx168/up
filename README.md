@@ -21,6 +21,8 @@ http://120.53.102.254/mysc/api/ads.php
 
 [多仓地址：https://hfr1107.github.io/up/dc.json ]&&&&&&&[打   开](https://hfr1107.github.io/up/dc.json) &&&&&&&[编   辑](https://github.com/hfr1107/up/edit/main/dc.json)]
 
+[单线地址：https://hfr1107.github.io/up/json/hfr.json ]&&&&&&&[打   开](https://hfr1107.github.io/up/json/hfr.json) &&&&&&&[编   辑](https://github.com/hfr1107/up/edit/main/json/hfr.json)]
+
 [直播主线：https://hfr1107.github.io/up/tv/tv.txt ]&&&&&&&[打   开](https://hfr1107.github.io/up/tv/tv.txt) &&&&&&&[编   辑](https://github.com/hfr1107/up/edit/main/tv/tv.txt)]
 
 [直播线路1：https://hfr1107.github.io/up/tv/tv1.txt ]&&&&&&&[打   开](https://hfr1107.github.io/up/tv/tv1.txt) &&&&&&&[编   辑](https://github.com/hfr1107/up/edit/main/tv/tv1.txt)]
