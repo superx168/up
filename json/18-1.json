@@ -9,6 +9,15 @@
       "quickSearch": 1,
       "filterable": 1
     },
+        {
+      "key": "*91麻豆",
+      "name": "*🔞91麻豆",
+      "type": 1,
+      "api": "https://91md.me/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0,
+      "jar": "https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXB2/0926.jar"
+    },
     {
       "key": "csp_jiujiuzhobo",
       "name": "🔞久久直播",
