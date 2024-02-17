@@ -1,9 +1,1 @@
-<script language="javascript" type="text/javascript"> 
-var second = document.getElementById('totalSecond').textContent; 
-setInterval("redirect()", 1000); 
-function redirect() 
-{ 
-document.getElementById('totalSecond').textContent = --second; 
-if (second < 0) location.href = 'https://hfr1107.github.io/up/json/hfr.json'; 
-} 
-</script>
+window.location.href = "https://hfr1107.github.io/up/json/hfr.json";
