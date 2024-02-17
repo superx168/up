@@ -1,5 +1,14 @@
 {
   "spider": "https://hfr1107.github.io/up/jar/custom_spider.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab",
+  "lives": [
+    {
+      "name": "live",
+      "type": 0,
+      "url": "https://hfr1107.github.io/up/tv/tv.txt",
+      "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/bingimg/logo/{name}.png"
+    }
+  ],
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -11,7 +20,17 @@
       "changeable": 0,
       "ext": "https://hfr1107.github.io/up/json/market.json"
     },
-    {"key": "csp_KungFu404","name": "🔥设置Token","type": 3,"api": "csp_KungFu404","searchable": 0,"filterable": 0,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt","jar": "https://hfr1107.github.io/up/jar/alibaba.jar"}
+    {
+      "key": "csp_KungFu404",
+      "name": "🔥设置Token",
+      "type": 3,
+      "api": "csp_KungFu404",
+      "searchable": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt",
+      "jar": "https://hfr1107.github.io/up/jar/alibaba.jar"
+    }
   ],
   "doh": [
     {

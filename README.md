@@ -1,9 +1,9 @@
 
 [市场公告：https://hfr1107.github.io/up/appmarket/ads.php ]&&&&&&&[打  开](https://hfr1107.github.io/up/appmarket/ads.php) &&&&&&&[编   辑](https://github.com/hfr1107/up/edit/main/appmarket/ads.php)]
 
-[市场公告：https://hfr1107.github.io/up/appmarket/index.php ]&&&&&&&[打  开](https://hfr1107.github.io/up/appmarket/index.php) &&&&&&&[编   辑](https://github.com/hfr1107/up/edit/main/appmarket/index.php)]
+[市场app：https://hfr1107.github.io/up/appmarket/index.php ]&&&&&&&[打  开](https://hfr1107.github.io/up/appmarket/index.php) &&&&&&&[编   辑](https://github.com/hfr1107/up/edit/main/appmarket/index.php)]
 
-[市场下载：https://hfr1107.github.io/up/appmarket/market.apk ]&&&&&&&[下  载](https://hfr1107.github.io/up/appmarket/market.apk) &&&&&&&[编   辑](https://github.com/hfr1107/up/edit/main/appmarket/)]
+[市场下载：https://hfr1107.github.io/up/appmarket/应用市场.apk ]&&&&&&&[下  载](https://hfr1107.github.io/up/appmarket/应用市场.apk) &&&&&&&[编   辑](https://github.com/hfr1107/up/edit/main/appmarket/)]
 
 https://atomgit.com/kuby007/up/raw/main/appmarket/ads.json
 
@@ -20,6 +20,8 @@ http://120.53.102.254/mysc/api/ads.php
 ===============================================================
 
 [多仓地址：https://hfr1107.github.io/up/dc.json ]&&&&&&&[打   开](https://hfr1107.github.io/up/dc.json) &&&&&&&[编   辑](https://github.com/hfr1107/up/edit/main/dc.json)]
+
+[单线地址：https://hfr1107.github.io/up/json/hfr.json ]&&&&&&&[打   开](https://hfr1107.github.io/up/json/hfr.json) &&&&&&&[编   辑](https://github.com/hfr1107/up/edit/main/json/hfr.json)]
 
 [直播主线：https://hfr1107.github.io/up/tv/tv.txt ]&&&&&&&[打   开](https://hfr1107.github.io/up/tv/tv.txt) &&&&&&&[编   辑](https://github.com/hfr1107/up/edit/main/tv/tv.txt)]
 
@@ -81,3 +83,5 @@ https://pastebin.com/raw/tuXBQs7U
 熊猫直播：https://gitee.com/langli-little-white-dragon-1/little-white-dragon/raw/master/zb.txt
 
 Nite07：https://xhdwc.tk/tvlive.txt
+
+病姐TV:https://d.kstore.space/download/7344/%E5%A4%8F%E5%86%B0/Box.txt
